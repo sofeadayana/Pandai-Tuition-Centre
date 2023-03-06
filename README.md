@@ -1,4 +1,4 @@
-# NEW-Pandai-Tuition-Centre
+# Pandai-Tuition-Centre
 
 
 Homework OOP
